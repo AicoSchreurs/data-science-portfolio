@@ -1,4 +1,4 @@
-# DataScience Portfolio
+# Data Science Portfolio
 This repo contains a portfolio of my data science projects that are completed by me for academic and hobby purposes.
 
 ## Instructions for running Jupyter notebooks locally:
