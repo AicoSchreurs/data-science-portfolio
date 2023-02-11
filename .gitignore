@@ -1,0 +1,16 @@
+# ignore ALL .log files
+*.log
+
+# ignore images
+*.jpg
+*.png
+*.jpeg
+
+# ignore zip
+*.zip
+
+*.pyc
+*.v2
+*.pb
+*.gz
+*.profile-empty
